@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tastee Treat App</string>
+    <string name="tasteeTreats">Tastee Treats</string>
+    <string name="addy">123 McGuire Rd  Gotha, FL 34734</string>
+    <string name="open">OPEN</string>
+    <string name="hours">10AM to 12PM</string>
+    <string name="phone">(407)877-4782</string>
+    <string name="menu">MENU</string>
+</resources>
